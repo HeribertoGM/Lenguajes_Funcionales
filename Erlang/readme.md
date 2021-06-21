@@ -1,4 +1,4 @@
-#### Index - Erlang ####
+# Index - Erlang
 
 - HW13 
 	1. retorna el index de un elemento n en una lista (recursiva)

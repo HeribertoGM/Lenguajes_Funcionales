@@ -1,4 +1,4 @@
-#### Index - Prolog ####
+# Index - Prolog
 
 - activity08 
 	1. potencia al cuadrado todos los elementos de una lista (recursivo)

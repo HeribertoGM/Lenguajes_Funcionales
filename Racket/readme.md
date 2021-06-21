@@ -1,4 +1,4 @@
-#### Index - Racket ####
+# Index - Racket
 
 -  Act2 
 	1. Suma de elementos en una lista (recursivo)

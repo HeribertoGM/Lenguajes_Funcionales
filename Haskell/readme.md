@@ -1,4 +1,4 @@
-#### Index - Haskell ####
+# Index - Haskell
 
 - HW09 
 	1. retorna la lista invertida (recursiva)
